@@ -46,7 +46,6 @@ interface MenuItem {
 const MENU_ITEMS: MenuItem[] = [
 
   { icon: Signature, label: 'Persetujuan', path: '/persetujuan' },
-  { icon: Box, label: 'Sample', path: '/sample' },
   
   { 
     icon: ShoppingCart, 
